@@ -1,26 +1,13 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [152] using StatReload
-INFO:     Started server process [154]
+INFO:     Started reloader process [203] using StatReload
+INFO:     Started server process [205]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:49712 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:49720 - "OPTIONS /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49726 - "OPTIONS /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37626 - "OPTIONS /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37630 - "OPTIONS /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49726 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49720 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37626 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:37630 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49720 - "OPTIONS /api/products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49720 - "POST /api/products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49720 - "POST /api/products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49720 - "POST /api/products HTTP/1.1" 200 OK
-INFO:     172.20.0.1:49720 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35328 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35340 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35354 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:35370 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58316 - "POST /api/products/search HTTP/1.1" 200 OK
-INFO:     172.20.0.1:58326 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55802 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:55826 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:55814 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36512 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36516 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33130 - "POST /api/products/search HTTP/1.1" 200 OK
+INFO:     172.20.0.1:33124 - "POST /api/products/search HTTP/1.1" 200 OK
